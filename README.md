@@ -1,5 +1,5 @@
 
-# Functional programming exercises to better understand this overlooked paradigm 
+# Functional Programming Exercises 
 ![readme_pf](https://user-images.githubusercontent.com/61991247/97779082-bbbf5680-1b73-11eb-9481-c13ff8552c34.png)
 
 # Document Index
